@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eaa89a0f.css",
+    "main.js": "/static/js/main.65f6bbc8.js",
+    "static/media/Company-logo-on-3d-glass-window-1536x864.jpg": "/static/media/Company-logo-on-3d-glass-window-1536x864.9bba2eb0720a069545b3.jpg",
+    "index.html": "/index.html",
+    "main.eaa89a0f.css.map": "/static/css/main.eaa89a0f.css.map",
+    "main.65f6bbc8.js.map": "/static/js/main.65f6bbc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaa89a0f.css",
+    "static/js/main.65f6bbc8.js"
+  ]
+}
